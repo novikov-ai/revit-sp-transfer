@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedParametersTransfer", "SharedParametersTransfer.csproj", "{A0D1DBEC-1204-4F33-AEE5-EABB4B56B750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantsUses", "..\ConstantsUses\ConstantsUses.csproj", "{008A7DA7-D33D-4325-AF70-24125D257CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008A7DA7-D33D-4325-AF70-24125D257CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008A7DA7-D33D-4325-AF70-24125D257CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008A7DA7-D33D-4325-AF70-24125D257CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008A7DA7-D33D-4325-AF70-24125D257CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
